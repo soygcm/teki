@@ -1,11 +1,10 @@
 # Teki 滴
-Teki means drop (Noun) in Japanese the idea is doing small progress every week/day in the process of building a startup.
 Teki is a Mini Lean Methodology for startups and projects.
-
+Teki means drop (Noun) in Japanese. The idea is doing small progress every week/day in the process of building a startup/project.
 
 This methodology is ideal for:
 
-* Small teams without too much time to dedicate (half time, weekends, etc)
+* Small teams without full time to dedicate.
 * Track the progress and prevent to lose the north
 * Share the past decisions to new members or stakeholders
 * Projects dependent on people (video games, social movements, events, etc)
@@ -25,7 +24,6 @@ One important thing before start is being aware of what are the stage of your pr
 
 In every stage you have to undersand that your goal is different so don't waste your time to get hundreds of clients if you not even know what’s your product, what's your market and what you want.
 
-
 ## Teki meeting
 
 ### Before start
@@ -41,6 +39,9 @@ Every member of the team has to be prepared for the meeting
 
 | Topic | Description |
 |-------|-------------|
-| Data time | Present and analyse the data you have since the last meeting. Create a summary of that data and the analysis in the document.
+| Taks done |  |
+| Data time | Present and analyse the data you have since the last meeting. Create a summary of that data and the analysis in the document. |
 | Learnings | What the team learned since the last meeting, The most important learning should be took **from the client**, but every kind of learning is welcome. Write all the learnings |
-| Ideas | 
+| Ideas | Write all the ideas that comes from Learnings and Data first, finally your ideas. |
+| Pending tasks | why not |
+| Next tasks | why yes |

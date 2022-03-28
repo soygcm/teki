@@ -40,8 +40,10 @@ Every member of the team has to be prepared for the meeting
 | Topic | Description |
 |-------|-------------|
 | Taks done |  |
+| Answers | |
 | Data time | Present and analyse the data you have since the last meeting. Create a summary of that data and the analysis in the document. |
 | Learnings | What the team learned since the last meeting, The most important learning should be took **from the client**, but every kind of learning is welcome. Write all the learnings |
+| Questions | |
 | Ideas | Write all the ideas that comes from Learnings and Data first, finally your ideas. |
+| Next tasks | why yes, goals whay are you trying to answer |
 | Pending tasks | why not |
-| Next tasks | why yes |

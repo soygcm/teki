@@ -12,11 +12,13 @@ Teki means drop (of water) in Japanese. The main idea is doing small progress da
 
 ## Key concepts
 
-**Pacing**
+### Pacing
 
-**Focus**
+### Focus
 
-**Communication**
+### Communication
+**Teki Tracking Document:**
+**Pitch Deck:**
 
 ****
 
@@ -30,19 +32,40 @@ Teki consist in one single meeting. This meeting needs to be done every week, bu
       question(You or your team has questions)-->Teki;
       lost_the_north(Have you lost the north)-->Teki;
       before_start(Before start to work in some new feature)-->Teki;
+      Teki-->pd[Pitch Deck]
+      Teki-->progress_doc[Teki Tracking Document]
 ```
 
-Teki consist in a daily or weekly meeting with your team where you ask, write, the right things.
-And that's it, only a continuous improvement documented process. The idea is to keep the things super simple.
-
 ## Stages
+One important thing before start every Teki is being aware of what is the stage of your project:
 
-One important thing before start is being aware of what are the stage of your project/startup:
+### Ideation
+**Goals**
+* Discovering initial necesities, ideas, concepts
+* Create your first Pitch Deck
 
-* **Early**: Conceptualization / Idea validation / Idea discovery
-* **MVP**: Minimum valuable product / Discovering what is about your project startup
-* **PMF**: Product Market fit / Discovering if there is a match between the market and your product (startup)
-* **Marketing: Growth** ... (I don't have any experience with this part)
+**Your are here if**
+You do not have nothing
+
+**You are not here when**
+* You have the initial idea of what you want to build.
+* You already have a Pitch Deck
+
+**How much time you should be here**
+Not to much preferable, couple of weeks or couple of months, depends in what you want to build. Keep in mind this stage is just an initial step to put together in a document what you are doing.
+
+### Starting 
+AKA: Minimum valuable product
+
+/ Discovering what is about your project startup
+
+### Tuning
+AKA: Product Market fit
+
+/ Discovering if there is a match between the market and your product (startup)
+
+### Growing
+* ... (I don't have any experience with this part)
 
 In every stage you have to undersand that your goal is different so don't waste your time to get hundreds of clients if you not even know what’s your product, what's your market and what you want.
 

@@ -28,12 +28,14 @@ Teki consist in one single meeting. This meeting needs to be done every week, bu
 
 ```mermaid
   graph TD;
-      week(Every Week)-->Teki;
-      question(You or your team has questions)-->Teki;
-      lost_the_north(Have you lost the north)-->Teki;
-      before_start(Before start to work in some new feature)-->Teki;
-      Teki-->pd[Pitch Deck]
-      Teki-->progress_doc[Teki Tracking Document]
+      week(Teki)-->Teki Meeting;
+      question(You or your team has questions)-->Teki Meeting;
+      lost_the_north(The Project lost the north)-->Teki Meeting;
+      other(Whatever good reason)-->Teki Meeting;
+      before_start(Before start to work in some new feature)-->Teki Meeting;
+      Teki Meeting-->Teki
+      Teki Meeting-->pd[Pitch Deck]
+      Teki Meeting-->progress_doc[Teki Tracking Document]
 ```
 
 ## Stages
@@ -82,18 +84,18 @@ Every member of the team has to be prepared for the meeting
 
 ### Topics
 
-#### Data
-Present and analyse the data you have since the last meeting. Create a summary of that data and the analysis in the document.
+#### Questions
 
 #### Answers
 What the team learned since the last meeting, The most important learning should be took **from the client**, but every kind of learning is welcome. Write all the learnings
 
-#### Questions
+#### Data
+Present the data you have collected in the last Teki. Write down the most important part.
 
 #### Ideas
 Write all the ideas that comes from Learnings and Data first, finally your ideas.
 
-#### Next tasks
+#### Tasks
 why yes, goals whay are you trying to answer
 
 #### Pending tasks

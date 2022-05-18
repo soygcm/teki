@@ -1,5 +1,5 @@
 # Teki 滴
-Teki is a one meeting methodology for projects creation.
+Teki is a one meeting methodology for projects building.
 Teki means drop (of water) in Japanese. The main idea is doing small progress day by day in the process of building your project.
 
 **This methodology is ideal for:**
@@ -28,14 +28,14 @@ Teki consist in one single meeting. This meeting needs to be done every week, bu
 
 ```mermaid
   graph TD;
-      week(Teki)-->Teki Meeting;
-      question(You or your team has questions)-->Teki Meeting;
-      lost_the_north(The Project lost the north)-->Teki Meeting;
-      other(Whatever good reason)-->Teki Meeting;
-      before_start(Before start to work in some new feature)-->Teki Meeting;
-      Teki Meeting-->Teki
-      Teki Meeting-->pd[Pitch Deck]
-      Teki Meeting-->progress_doc[Teki Tracking Document]
+      week(Teki completed)-->Teki Meeting;
+      question(You or your team has questions)-->teki_meeting[Teki Meeting];
+      lost_the_north(The Project lost the north)-->teki_meeting[Teki Meeting];
+      other(Whatever good reason)-->teki_meeting[Teki Meeting];
+      before_start(Before start to work in some new feature)-->teki_meeting[Teki Meeting];
+      teki_meeting[Teki Meeting]-->Teki
+      teki_meeting[Teki Meeting]-->pd[Pitch Deck]
+      teki_meeting[Teki Meeting]-->progress_doc[Teki Tracking Document]
 ```
 
 ## Stages

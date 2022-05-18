@@ -1,8 +1,8 @@
 # Teki 滴
 Teki is a one meeting methodology for projects creation.
-Teki means drop (of water) in Japanese. The main idea is doing small progress every week/day in the process of building your project.
+Teki means drop (of water) in Japanese. The main idea is doing small progress day by day in the process of building your project.
 
-This methodology is ideal for:
+**This methodology is ideal for:**
 
 * Small teams without full time to dedicate.
 * Track the progress so that prevent to lose the north
@@ -10,12 +10,26 @@ This methodology is ideal for:
 * Projects that depends on people feedback (video games, social movements, events, etc)
 * Projects that wants or need fast learning and progress
 
+## Key concepts
+
+**Pacing**
+
+**Focus**
+
+**Communication**
+
+****
+
+## How to use it
+
+Teki consist in one single meeting. This meeting needs to be done every week, but you can have it in any moment inside the week if you need.
+
 ```mermaid
   graph TD;
-      A-->B;
-      A-->C;
-      B-->D;
-      C-->D;
+      week(Every Week)-->Teki;
+      question(You or your team has questions)-->Teki;
+      lost_the_north(Have you lost the north)-->Teki;
+      before_start(Before start to work in some new feature)-->Teki;
 ```
 
 Teki consist in a daily or weekly meeting with your team where you ask, write, the right things.

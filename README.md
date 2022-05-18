@@ -28,7 +28,7 @@ Teki consist in one single meeting. This meeting needs to be done every week, bu
 
 ```mermaid
   graph TD;
-      week(Teki completed)-->Teki Meeting;
+      week(Teki completed)-->teki_meeting[Teki Meeting];
       question(You or your team has questions)-->teki_meeting[Teki Meeting];
       lost_the_north(The Project lost the north)-->teki_meeting[Teki Meeting];
       other(Whatever good reason)-->teki_meeting[Teki Meeting];

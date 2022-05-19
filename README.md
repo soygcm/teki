@@ -10,17 +10,35 @@ Teki means drop (of water) in Japanese. The main idea is doing small progress da
 * Projects that depends on people feedback (video games, social movements, events, etc)
 * Projects that wants or need fast learning and progress
 
-## Key concepts
+## Values
 
-### Pacing
+### 🥁 Pacing
 
-### Focus
+Keep the rhythm of the project...
 
-### Communication
-**Teki Tracking Document:**
-**Pitch Deck:**
+### 🧐 Focus
 
-****
+...Doing the right things...
+
+### 📢 Communication
+
+...And telling everyone why, how, when and what you are doing.
+
+## Definitions
+
+| Term | Definition |
+| ---- | ---------- |
+| **Project** | Could be anything from a rock band to a mission to mars |
+| **Teki** | Small iteration of progress. |
+| **Teki Tracking Document** | An historical record of all the Tekis. |
+| **Pitch Deck** | Small Presentation that contains the most important things of the project. |
+| **The Problem** | What is causing pain to your customers, now or in the future. |
+| **Customer** | The humans that are going to use your solution. |
+| **The Solution** | What your customers love to use, because solve its problem. |
+| **The Market** | The group of humans that has the same problem that your customers |
+| **Traction** | Evidence that your customers actually love your solution. Payments, downloads, follows, etc. |
+| **Infrastructure** | The physical or virtual environment that you are working with. |
+
 
 ## How to use it
 
@@ -41,43 +59,51 @@ Teki consist in one single meeting. This meeting needs to be done every week, bu
 ## Stages
 One important thing before start every Teki is being aware of what is the stage of your project:
 
-### Ideation
-**Goals**
-* Discovering initial necesities, ideas, concepts
+### 💡 Ideation
+
+#### Goals
+
+* Discovering initial Problem.
+* Discovering the initial Market.
+* Discovering the initial Solution.
 * Create your first Pitch Deck
 
-**Your are here if**
-You do not have nothing
+#### Timing
 
-**You are not here when**
-* You have the initial idea of what you want to build.
-* You already have a Pitch Deck
+3 months maximum (This obviously depends on the type of your project)
 
-**How much time you should be here**
-Not to much preferable, couple of weeks or couple of months, depends in what you want to build. Keep in mind this stage is just an initial step to put together in a document what you are doing.
+### 🌱 Starting 
+AKA: Minimum Viable Product/Project (MVP)
 
-### Starting 
-AKA: Minimum valuable product
+#### Goals
 
-**Goals**
+* Create your MVP
+* Understanding your market
+* Understanding the problem you are trying to solve
+* Having initial traction
+* You know that your team is able to solve the problem
 
-**Your are here if**
+#### Timing
 
-**You are not here when**
+6 months to 3 years
 
-**How much time you should be here**
+### 🧩 Tuning
+AKA: Product Market Fit (PMF)
 
-### Tuning
-AKA: Product Market fit
+#### Goals
 
-/ Discovering if there is a match between the market and your product (startup)
+* Increase you customer satisfactions
+* Your solution shall be the best possible in the market
 
-### Growing
-* ... (I don't have any experience with this part)
+### 🌳 Growing
 
-In every stage you have to undersand that your goal is different so don't waste your time to get hundreds of clients if you not even know what’s your product, what's your market and what you want.
+#### Goals
 
-## Teki meeting
+* Refine your marketing strategy
+* Increase your traction
+* Improve your infrastructure
+
+## Teki Meeting
 
 ### Before start
 

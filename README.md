@@ -59,7 +59,13 @@ Not to much preferable, couple of weeks or couple of months, depends in what you
 ### Starting 
 AKA: Minimum valuable product
 
-/ Discovering what is about your project startup
+**Goals**
+
+**Your are here if**
+
+**You are not here when**
+
+**How much time you should be here**
 
 ### Tuning
 AKA: Product Market fit

@@ -14,50 +14,60 @@ Teki means drop (of water) in Japanese. The main idea is doing small progress da
 
 ### 🥁 Pacing
 
-Keep the rhythm of the project...
+Keep the rhythm of the project having small progress every week.
 
 ### 🧐 Focus
 
-...Doing the right things...
+Working only in the right things.
 
 ### 📢 Communication
 
-...And telling everyone why, how, when and what you are doing.
+Telling your team and stakeholders why, how, when and what you are doing.
+Telling your customers why and what you are doing.
 
 ## Definitions
 
 | Term | Definition |
 | ---- | ---------- |
 | **Project** | Could be anything from a rock band to a mission to mars |
-| **Teki** | Small iteration of progress. |
-| **Teki Tracking Document** | An historical record of all the Tekis. |
-| **Pitch Deck** | Small Presentation that contains the most important things of the project. |
+| **Teki** | Small iteration of progress. Minimum duration is **1 week** |
+| **Teki Tracking Document** | An historical record of all the Tekis, that can be shared with the team and stakeholders. |
+| **Pitch Deck** | Small Presentation that contains the most important things of the project and can be shared with the stakeholders and with some modifications to your customers. |
 | **The Problem** | What is causing pain to your customers, now or in the future. |
-| **Customer** | The humans that are going to use your solution. |
-| **The Solution** | What your customers love to use, because solve its problem. |
-| **The Market** | The group of humans that has the same problem that your customers |
+| **Customer** | The humans that are going to use your solution. Hey! this can be you or friends in the begining. |
+| **The Solution** | What your customers love to use, because solve their problem. |
+| **Market** | The group of humans arround the world that have the same problem that your customers |
 | **Traction** | Evidence that your customers actually love your solution. Payments, downloads, follows, etc. |
-| **Infrastructure** | The physical or virtual environment that you are working with. |
+| **Team** | The humans that are working on your project, directly or indirectly. |
+| **Stakeholders** | The humans that have a strong interest in your project, but are not part of the team. |
+| **Progress** | Small amount of improvement in the solution, that can be shared with the team, stakeholders or customers. |
+| **Infrastructure** | The physical or virtual environment that you are building or using. Applications, services, methodologies, etc. |
 
 
 ## How to use it
 
-Teki consist in one single meeting. This meeting needs to be done every week, but you can have it in any moment inside the week if you need.
+Teki iteration start with one single meeting, that happens every week. But you can have it in any moment inside the week if you need.
 
 ```mermaid
-  graph TD;
-      week(Teki completed)-->teki_meeting[Teki Meeting];
-      question(You or your team has questions)-->teki_meeting[Teki Meeting];
-      lost_the_north(The Project lost the north)-->teki_meeting[Teki Meeting];
-      other(Whatever good reason)-->teki_meeting[Teki Meeting];
-      before_start(Before start to work in some new feature)-->teki_meeting[Teki Meeting];
-      teki_meeting[Teki Meeting]-->Teki
-      teki_meeting[Teki Meeting]-->pd[Pitch Deck]
-      teki_meeting[Teki Meeting]-->progress_doc[Teki Tracking Document]
+  graph LR
+    week(Teki completed)-->teki_meeting((Teki Meeting))
+    question(You or your team </br> has questions)-->teki_meeting
+    lost_the_north(The Project </br> lost the north)-->teki_meeting
+    other(Whatever </br> good reason)-->teki_meeting
+    before_start(Before start </br> to work in some </br> new feature)-->teki_meeting
+    
+    teki_meeting-->pd[[Pitch Deck Updated]]
+    teki_meeting-->progress_doc[[Teki Tracking Document]]
+    teki_meeting-->start_teki(Start Teki)
+
+    subgraph Teki
+        start_teki -.-> |1 week duration| week
+    end
+
 ```
 
 ## Stages
-One important thing before start every Teki is being aware of what is the stage of your project:
+One important thing before start every Teki is being aware of what is the stage of your project. So if you already reached the goals of some stage, you could know that you are in the next stage. This is super important to prioritize your work and keep the focus.
 
 ### 💡 Ideation
 
@@ -109,28 +119,28 @@ AKA: Product Market Fit (PMF)
 
 Every member of the team has to be prepared for the meeting
 
-1. You are not an expert (If you were you don't need Teki and probably you have your project completed or your startup is already successful), so don't assume nothing
-2. Prepare the data for the meeting. What data? any kind of data: interviews, analytics, meetings, comments, etc, better if comes from your customer/client. Don't you have clientes? See next point.
-3. Client: you, your friends, your colleagues, your family, people in forums, etc.
-4. Use a monthly or single document (Confluence, Wiki, source code, word, google docs) to track the progress.
+1. You are not an expert (If you were you don't need Teki and probably you have your project completed or your startup is already successful), so don't assume nothing. Even if you belive that you already know it, stay open and curious.
+2. Prepare the __traction__ data for the meeting. What data? any kind of data: interviews, analytics, meetings with customers, experts opinions, research, comments, etc, better if comes from your customer.
+4. Create a document in the cloud (avoid saving it only in your computer) with this format ```#(number of meeting) - Date(more text is better)``` for example:
+    - ```1 - May 3 2020```
+    - ```2 - Monday, May 15 2020```
+    - ```3 - 2020/March/15```
+
 
 ### Topics
 
-#### Questions
+#### ❓ Questions
 
-#### Answers
+#### 💧 Answers
 What the team learned since the last meeting, The most important learning should be took **from the client**, but every kind of learning is welcome. Write all the learnings
 
-#### Data
+#### 📊 Traction
 Present the data you have collected in the last Teki. Write down the most important part.
 
-#### Ideas
+#### 🎈 Ideas
 Write all the ideas that comes from Learnings and Data first, finally your ideas.
 
-#### Tasks
+#### ✅ Tasks
 why yes, goals whay are you trying to answer
 
-#### Pending tasks
-why not
-
-#### Taks done
+#### 🎪 Pitch Deck

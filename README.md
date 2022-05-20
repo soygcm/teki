@@ -8,7 +8,7 @@ Teki means drop (of water) in Japanese. The main idea is doing small progress da
 * Track the progress so that prevent to lose the north
 * Share the past decisions to new members or stakeholders
 * Projects that depends on people feedback (video games, social movements, events, etc)
-* Projects that wants or need fast learning and progress
+* Projects that need fast learning and progress
 
 ## Values
 
@@ -32,7 +32,7 @@ Telling your customers why and what you are doing.
 | **Project** | Could be anything from a rock band to a mission to mars |
 | **Teki** | Small iteration of progress. Minimum duration is **1 week** |
 | **Teki Tracking Document** | An historical record of all the Tekis, that can be shared with the team and stakeholders. |
-| **Pitch Deck** | Small Presentation that contains the most important things of the project and can be shared with the stakeholders and with some modifications to your customers. |
+| **Pitch Deck** | Small Presentation that contains the most important things of the project and can be shared with the stakeholders and your customers (with some modifications). |
 | **The Problem** | What is causing pain to your customers, now or in the future. |
 | **Customer** | The humans that are going to use your solution. Hey! this can be you or friends in the begining. |
 | **The Solution** | What your customers love to use, because solve their problem. |
@@ -69,7 +69,7 @@ Teki iteration start with one single meeting, that happens every week. But you c
 ## Stages
 One important thing before start every Teki is being aware of what is the stage of your project. So if you already reached the goals of some stage, you could know that you are in the next stage. This is super important to prioritize your work and keep the focus.
 
-### 💡 Ideation
+### 🥚 Ideation 🥑
 
 #### Goals
 
@@ -82,7 +82,7 @@ One important thing before start every Teki is being aware of what is the stage 
 
 3 months maximum (This obviously depends on the type of your project)
 
-### 🌱 Starting 
+### 🐣 Starting 🌱
 AKA: Minimum Viable Product/Project (MVP)
 
 #### Goals
@@ -97,7 +97,7 @@ AKA: Minimum Viable Product/Project (MVP)
 
 6 months to 3 years
 
-### 🧩 Tuning
+### 🐥 Tuning 🪴
 AKA: Product Market Fit (PMF)
 
 #### Goals
@@ -105,7 +105,7 @@ AKA: Product Market Fit (PMF)
 * Increase you customer satisfactions
 * Your solution shall be the best possible in the market
 
-### 🌳 Growing
+### 🐓 Growing 🌳
 
 #### Goals
 
@@ -113,9 +113,7 @@ AKA: Product Market Fit (PMF)
 * Increase your traction
 * Improve your infrastructure
 
-## Teki Meeting
-
-### Before start
+## Before start
 
 Every member of the team has to be prepared for the meeting
 
@@ -127,20 +125,59 @@ Every member of the team has to be prepared for the meeting
     - ```3 - 2020/March/15```
 
 
-### Topics
+### Some questions before start
 
-#### ❓ Questions
+| Question | Answer |
+| ---- | ---- |
+| Who run the meeting? | The founder of the project shall to run the meeting. |
+| How long is the meeting? | 10 to 20 minutes |
+| How many pages should have the Teki Tracking Document? | 1 to 2 |
 
-#### 💧 Answers
-What the team learned since the last meeting, The most important learning should be took **from the client**, but every kind of learning is welcome. Write all the learnings
+## Topics
 
-#### 📊 Traction
-Present the data you have collected in the last Teki. Write down the most important part.
+### 1. Questions ❓
 
-#### 🎈 Ideas
-Write all the ideas that comes from Learnings and Data first, finally your ideas.
+Write down all the new questions you and your team have about the project.
 
-#### ✅ Tasks
+Rock band examples:
+
+* How much time am I going to spend on this project?
+* Do my customers wants to hear my recent song before the musical video?
+* How much it cost to produce a video?
+* How much my customers are going to love my song?
+
+Mission to mars examples:
+
+* I'm able to reach the moon?
+* What materials do I need to build the rocket?
+* Is there customers that need to go to mars?
+
+It doesn't matter how big the questions are or how ridiculous they are, having all the questions would make way more easy to identify what is the most important thing you should be doing in your project.
+
+### 2. Ideas 🎈
+Write all the amazing ideas you have for the next Teki, and for the hole project. Remember you only have 20 minutes maximum so try to keep it simple.
+
+Rock band examples:
+
+* We want to be the best rock band in australia.
+* What if we mix some native sounds with the rock band?
+* Create the logo of the band.
+* Make a youtube channel of the band.
+
+Mission to mars examples:
+
+* Design a rocket that can reach the moon.
+* Create a 1 year plan with the building process of the rocket.
+* Do the maths to calculate the phisics of the rocket.
+
+
+### 5. Tasks ✅
 why yes, goals whay are you trying to answer
 
-#### 🎪 Pitch Deck
+### 3. Traction 📊
+Present the data you have collected in the last Teki. Write down the most important part.
+
+### 2. Answers 💧
+What the team learned in the last Teki, The most important learning should come **from the client**, but every kind of learning is welcome. Write all the learnings
+
+### 6. Pitch Deck 🎪

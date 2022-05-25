@@ -33,20 +33,19 @@ Telling your customers why and what you are doing.
 | ---- | ---------- |
 | **Project** | Could be anything from a rock band to a mission to mars |
 | **Teki** | Small iteration of progress. Minimum duration is **1 week** |
+| **Iteration** | Repetition of a process. |
 | **Teki Tracking Document** | An historical record of all the Tekis, that can be shared with the team and stakeholders. |
-| **Pitch Deck** | Small Presentation that contains the most important things of the project and can be shared with the stakeholders and your customers (with some modifications). |
-| **The Problem** | What is causing pain to your customers, now or in the future. |
-| **Customer** | The humans that are going to use your solution. Hey! this can be you or friends in the begining. |
+| **Pitch Deck** | Small Presentation that contains the most important things of the project and can be shared with the stakeholders. And with your customers (with some modifications). |
+| **Stakeholders** | People that have a strong interest in your project, but are not part of the team. |
+| **Customer** | People that are going to use your solution. Hey! this can be you or friends in the begining. |
 | **The Solution** | What your customers love to use, because solve their problem. |
+| **The Problem** | What is causing pain to your customers, now or in the future (If you are building a new need). |
 | **Target Market** | The group of humans arround the world that have the same problem that your customers |
-| **Market** | The group of humans arround the world that have the same problem that your customers |
+| **Market** | All the people that buy and sell similar solutions than yours. |
 | **Traction** | Evidence that your customers love your solution. Payments, downloads, follows, etc. |
-| **Team** | The humans that are working on your project, directly or indirectly. |
-| **Stakeholders** | The humans that have a strong interest in your project, but are not part of the team. |
+| **Team** | People that are working on your project, directly or indirectly. |
 | **Progress** | Small amount of improvement in the solution, that can be shared with the team, stakeholders or customers. |
 | **Infrastructure** | The physical or virtual environment that you are building or using. Applications, services, methodologies, etc. |
-| **Iteration** | 
-| **
 
 
 ## How to use it
@@ -154,36 +153,36 @@ Stage:
 
 Write down all the new questions you and your team have about the project.
 
-##### Rock band examples:
+<!-- ##### Rock band 🎸:
 
 * How much time am I going to spend on this project?
 * Do my customers wants to hear my recent song before the musical video?
 * How much it cost to produce a video?
 * How much my customers are going to love my song?
 
-##### Mission to mars examples:
+##### Mission to mars 🚀:
 
-* I'm able to reach the moon first?
+* am I able to reach the moon first?
 * What materials do I need to build the rocket?
-* Is there customers that need to go to mars?
+* Is there customers that need to go to mars? -->
 
 It doesn't matter how big the questions are or how ridiculous they are, having all the questions would make way more easy to identify what is the most important thing you should be doing in your project.
 
 ### 2. Ideas 🎈
 Write all the amazing ideas you have for the next Teki, and for the hole project. Remember you only have 20 minutes maximum so try to keep it simple.
 
-##### Rock band examples:
+<!-- ##### Rock band 🎸:
 
 * We want to be the best rock band in australia.
 * What if we mix some native sounds with the rock band?
 * Create the logo of the band.
 * Make a youtube channel of the band.
 
-##### Mission to mars examples:
+##### Mission to mars 🚀:
 
 * Design a rocket that can reach the moon.
 * Create a 1 year plan with the building process of the rocket.
-* Do the maths to calculate the phisics of the rocket.
+* Do the maths to calculate the phisics of the rocket. -->
 
 
 ### 3. Tasks ✅
@@ -193,7 +192,7 @@ This is one of the most important parts of the Teki meeting, so be sure you have
 #### 3.1 Select the most important question
 The first thing that you need to do is detect what is the most important question you have. How could you know that?. Just select the question that separete your solution from the customer the most.
 
-##### Rock band examples:
+##### Rock band 🎸:
 
 > * How much time am I going to spend on this project? 
 
@@ -201,9 +200,9 @@ This question for example is probably the most important because if you don't kn
 
 Kowing the other anser otherwize is not super important right now, because you don't even know the time you will use in your project.
 
-##### Mission to mars examples:
+##### Mission to mars 🚀:
 
-Here is most difficult, because some of you could think that knowing the materials is the most important question. Because if you don't know that you never are going to acomplish your mission to mars. But that is not necessarily true. 
+Here is more difficult, because some of you could think that knowing the materials is the most important question. Because if you don't know that you never are going to acomplish your mission to mars. But that is not necessarily true. 
 
 Do you really need to build your own rocket to travel to mars?
 Have you researched if there is some other company that is actually selling rockets that are able to go mars?
@@ -256,17 +255,15 @@ I'm not going to go with the tipical _make a poll_. Or the other one _create a l
    * We need to ask for permission in the college.
    * We need to create at least 6 big pictures of mars to show to the students.
 
-But the way this two tasks have sense if you already know more or less what could be your market. Probably in a twitch channel you won't find people that want to go to mars (and pay for it). 
-
-You can be super creative or go for the tipical ideas. Any option is fine. The real goal here is to do something that can help you to answer your questions, help you to fill the lack of information that you need to build your solution.
+You can be super creative or go for the tipical ideas. Any option is fine. The real goal here is to do something that can help you to answer your questions, and fill the lack of information that you need to build your solution.
 
 ### 4. Traction 📊
 
-Make a list of all the traction data you collected in the last week. This could be excel files, images, stats, or audio files. Any kind of evidence is valid.
+Make a list of all the traction data you have collected in the project, keep the recent data first. This could be excel files, images, stats, or audio files. Any kind of evidence is valid.
 
 It's super important have the full list in all the documents, you can remove the evidence that could be repeated or is not relevant any more (Remember you only should have 2 pages in the document).
 
-##### Rock band 🎸:
+<!-- ##### Rock band 🎸:
 
 So let's say the rock band completed the week tasks they had.
 
@@ -279,13 +276,13 @@ So they can have these tracktion data:
 
 * Chat screen captures.
 * Clip of the comment of the streamer.
-* Record of the students opinions.
+* Record of the students opinions. -->
 
 ### 5. Answers 💧
 
-So now you can start to answer some questions. Writing the answers help you to understand your mistakes and hits in your project story.
+So now you can start to answer some questions. Writing the answers help you to understand your mistakes and hits in your project story. Write in a form of question and answer all your learnings so far.
 
-##### Rock band 🎸:
+<!-- ##### Rock band 🎸:
 
 * How much time am I going to spend on this project?
     * According to my one week track and my parents permission I will spend 10 hours per week.
@@ -296,13 +293,13 @@ So now you can start to answer some questions. Writing the answers help you to u
     * Some users of XQC appears to be interested, 5 of them showed an interest in actually purchase the tickets.
     * Zero biology students (in UNSW Sydney) showed interest in going to mars.
     * 1 physics student (in UNSW Sydney) showed interest in going to mars.
-    * 10 chemestry students (in UNSW Sydney) showed interest in going to mars. 
+    * 10 chemestry students (in UNSW Sydney) showed interest in going to mars.  -->
 
 ### 6. Pitch Deck 🎪
 
 There is no better instruction on what to put in your pitch deck than this https://slidebean.com/blog/startups-pitch-deck-examples/ 
 
-These is the tipical content you should have:
+These is the tipical content you could have:
 
 1. Problem
 2. Solution
@@ -311,73 +308,48 @@ These is the tipical content you should have:
 5. Business Model
 6. Underlying Magic
 7. Competition
-8. Better/Different
 9. Marketing Plan
 10. Team Slide
 11. Traction / Milestones
 
 So keep the basic content (only text) in this document. Remember that part of the goal of this meeting is fill this presentation so it is a good guide to create your next questions.
 
-## More Examples
+## Examples
+
+-------------------
 
 ### Rock band 🎸
 
--------------------
+* [1 - June 24 2020](examples/rock-band/1%20-%20June%2024%202020.md)
+* [2 - July 2 2020](examples/rock-band/2%20-%20July%202%202020.md)
+* ...
+* [21 - April 13 2021](examples/rock-band/21%20-%20April%2013%202021.md)
 
-> Let's imagine that the rock band project has already one song produced including the video. They have a youtube channel and some social networks as well. There they have an initial amount of followers and subscribers.
+Let's imagine that after 21 weeks the rock band project has already one song produced including the video. They have a youtube channel and some social networks as well. There they have an initial amount of followers and subscribers.
 
-Stage: Starting
-#### 1. Questions
+Notice these important things in the last document:
 
-* Is our sound good enough?
-* Should we have our first concert?
+* They know that they are in Starting Stage, so they are not trying to tune their solution yet, and they are not trying to grow neither. The only missing task they have to swithc to Tuning Stage is beign sure they really have a good solution (The first video they made could have been just good luck). They want proof that they have a good solution.
+* They switched to Latin Music, because they noticed that making rock music is ok, but they are better at Latin Music. Keep trying to make something that you are not good at is not always a good idea.
+* The pitch deck slides order could be different.
 
-#### 2. Ideas
+So:
 
-* Make our first concert
-* Upload the song to spotify
-
-#### 3. Tasks
-
-* This Friday have a session with some new sound ideas, because in that way we can show that session in our instagram and know our fans reaction.
-
-#### 4. Traction
-
-* Number of followers and subscribers.
-* Number of views of the video.
-* Number of likes of the video.
-* Comments in the video.
-
-#### 5. Answers
-
-* How much time am I going to spend on this project?
-    * Since March in total we dedicate 23 hours per week including all the members.
-* What are the members of the band?
-    * We have a band of 5 members. (Mateus is not any more with us)
-* What are the type of music we love and can do? 
-    * After three months we are very happy and very good doing Latin music.
-* What is our target market?
-    * People living in Sydney from 23 years to 45 years old.
-
-#### 6. Pitch Deck
+1. Embrace your stage
+2. You can change the original idea
+3. Be sure you are good at what you are doing
 
 -------------------
-
-
 
 ### Mission to mars 🚀
 
+* [1 - June 3 2020](examples/mission-to-mars/1%20-%20June%203%202020.md)
+* [2 - June 10 2020](examples/mission-to-mars/2%20-%20June%2010%202020.md)
+* ...
+* [93 - July 5 2021](examples/mission-to-mars/93%20-%20July%205%202021.md)
+
+Here the mission to mars team were able to create a company with a lot of technology, because no other company could offered the needed rockets. They also have a considered amount of customers that has their pre saled tickets. With a more big amount of fans in their social networks.
+
 -------------------
 
-Similar here the mission to mars team were able to create a strong company with a lot of technology, because no other company could offered the needed rockets. They also have a considered amount of customers that has their pre saled tickets. With a more big amount of fans in their social networks.
 
-1. Number of pre saled tickets.
-2. Number of followers and subscribers.
-3. Cripto currency of the company.
-
-### 5. Answers 💧
-
-
-##### Mission to mars 🚀:
-
-### 6. Pitch Deck 🎪

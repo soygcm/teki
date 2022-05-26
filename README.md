@@ -145,6 +145,16 @@ Stage:
 4. Traction
 5. Answers
 6. Pitch Deck
+    1. Problem
+    2. Solution
+    3. Product
+    4. Market Size
+    5. Business Model
+    6. Underlying Magic
+    7. Competition
+    9. Marketing Plan
+    10. Team Slide
+    11. Traction / Milestones
 ```
 
 ## Topics

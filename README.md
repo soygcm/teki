@@ -121,7 +121,7 @@ Every member of the team has to be prepared for the meeting
 
 1. You are not an expert (If you were you don't need Teki and probably you have your project completed or your startup is already successful), so don't assume nothing. Even if you belive that you already know it, stay open and curious.
 2. Prepare the __traction__ data for the meeting. What data? any kind of data: interviews, analytics, meetings with customers, experts opinions, research, comments, etc, better if comes from your customer.
-4. Create a document in the cloud (avoid saving it only in your computer) with this format ```#(number of meeting) - Date(more text is better)``` for example:
+4. Create or copy from the last document (save in the in the cloud avoid saving it only in your computer) with this format ```#(number of meeting) - Date(more text is better)``` for example:
     - ```1 - May 3 2020```
     - ```2 - Monday, May 15 2020```
     - ```3 - 2020/March/15```

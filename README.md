@@ -368,3 +368,4 @@ Here the mission to mars team were able to create a company with a lot of techno
 
 - [ ] Update the strategy to selct what question to answer
 - [ ] Update the way the answers are answered (date record)
+- [ ] Remove the pitch deck from the teki doc

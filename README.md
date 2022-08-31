@@ -364,8 +364,10 @@ Here the mission to mars team were able to create a company with a lot of techno
 
 # Frenquently Asked Questions
 
-# TODO
+# To do list
 
 - [ ] Update the strategy to selct what question to answer
 - [ ] Update the way the answers are answered (date record)
 - [ ] Remove the pitch deck from the teki doc
+- [ ] Add some posts from linkedin of founders
+- [ ] You can use sections to organize the answers and questions

@@ -22,7 +22,7 @@ Keep the rhythm of the project having small progress every week.
 
 Working only in the right things.
 
-### Communication 📢 
+### Communication/Show? 📢 
 
 Telling the team and stakeholders why, how, when and what you are doing.
 Telling your customers why and what you are doing.
@@ -364,6 +364,9 @@ Here the mission to mars team were able to create a company with a lot of techno
 
 # Frenquently Asked Questions
 
+¿How to select what question to answer?
+https://vm.tiktok.com/ZMFwh4kQe/
+
 # To do list
 
 - [ ] Update the strategy to selct what question to answer
@@ -371,3 +374,5 @@ Here the mission to mars team were able to create a company with a lot of techno
 - [ ] Remove the pitch deck from the teki doc
 - [ ] Add some posts from linkedin of founders
 - [ ] You can use sections to organize the answers and questions
+- [ ] Adding Demo? (Show?)
+- [ ] Ideas or progress? (Same as show?)

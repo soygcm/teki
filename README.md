@@ -376,3 +376,4 @@ https://vm.tiktok.com/ZMFwh4kQe/
 - [ ] You can use sections to organize the answers and questions
 - [ ] Adding Demo? (Show?)
 - [ ] Ideas or progress? (Same as show?)
+- [ ] Cambiar la palabra Traction to Data
